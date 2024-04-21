@@ -8,7 +8,7 @@ This games popularity skyrocketed in 2022 when he sold it to the New York Times.
 Many clones of this game have been made before.
 This wordle has a menu where you can ask for instructions on how to play and the game also has color so the players can tell the status of each letter.
 This game also has ten thousand words to ensure that players always have a vivid variety of words to guess.
-This game is more on the complicated side for beginners and the coders who look at this should know things like Fore and random.
-This game was written by me and my team of coders.
+This game is more on the complicated side for beginners and the coders who look at this games code should know what Fore and colorama are.
+This game was written by me and my team of coders in school for AP CSP.
 It took about 9 days to complete the initial coding and a couple more for bugtesting.
 This code was written by humans and not AI.
